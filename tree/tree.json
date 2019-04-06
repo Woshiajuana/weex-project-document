@@ -4,11 +4,6 @@
     "base": "http://20.0.18.93:32580/dist/BD",
     "version": "0.0.1",
     "engine": "0.0.1",
-    "insert": {
-        "third_party_app": {
-            "tree": "http://20.0.18.93:32580/third_party_app.json"
-        }
-    },
     "resource": {
         "wow_app": {
             "src": "wow_app.js",
@@ -21,6 +16,11 @@
     "module": {
         "auth ": {
             "tree": "http://20.0.18.93:32580/auth.json"
+        }
+    },
+    "insert": {
+        "third_party_app": {
+            "tree": "http://20.0.18.93:32580/third_party_app.json"
         }
     }
 }

@@ -1,17 +1,17 @@
 {
-    "app": "wow",
-    "entry": "wow_app",
+    "app": "third_party",
+    "entry": "third_party_app",
     "base": "http://20.0.18.93:32580/dist/BD",
     "version": "0.0.1",
     "engine": "0.0.1",
     "insert": {
-        "third_party_app": {
-            "tree": "http://20.0.18.93:32580/third_party_app.json"
+        "other": {
+            "tree": "http://20.0.18.93:32580/other.json"
         }
     },
     "resource": {
-        "wow_app": {
-            "src": "wow_app.js",
+        "third_party_app": {
+            "src": "third_party_app.js",
             "md5": "xxxxxxxxxxxxxxxxxxxxxxxxx",
             "meta": {
                 "arrList": []

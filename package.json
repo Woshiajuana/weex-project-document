@@ -1,0 +1,18 @@
+{
+  "name": "weex-project-document",
+  "version": "1.0.0",
+  "description": "a weex app",
+  "main": "index.js",
+  "scripts": {
+    "serve": "serve -p 32580"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Woshiajuana/wow-weex"
+  },
+  "author": "Ajuan",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^4.0.1"
+  }
+}

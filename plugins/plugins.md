@@ -42,3 +42,4 @@ textModule
 ---|---
 resource    | 资源请求插件模块
 meta        | 元数据请求插件模块
+photo       | 照片插件模块

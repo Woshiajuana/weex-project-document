@@ -38,8 +38,8 @@ textModule
 
 ## 插件模块列表
 
-插件名|简述
+文件名|简述
 ---|---
-resource    | 资源请求插件模块
-meta        | 元数据请求插件模块
-photo       | 照片插件模块
+path            | 资源请求插件模块
+loading         | loading请求插件模块
+http            | 接口插件模块
